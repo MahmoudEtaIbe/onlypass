@@ -1,6 +1,4 @@
 
-Here's a suggested description for your OnlyPass repository that can be used on GitHub:
-
 OnlyPass - Secure Password Management
 
 OnlyPass is a desktop password manager that creates and manages highly secure passwords. This app allows users to generate strong passwords, which can be changed periodically for enhanced security. With a user-friendly interface and a focus on privacy, OnlyPass ensures that your passwords are always under your control.
